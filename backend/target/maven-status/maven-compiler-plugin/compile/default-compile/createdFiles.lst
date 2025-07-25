@@ -1,0 +1,8 @@
+com\github\RafaelScarpelli\backend\model\Pessoa.class
+com\github\RafaelScarpelli\backend\model\Calculadora.class
+com\github\RafaelScarpelli\backend\controller\ControllerHello.class
+com\github\RafaelScarpelli\backend\service\ServiceHello.class
+com\github\RafaelScarpelli\backend\BackendApplication.class
+com\github\RafaelScarpelli\backend\controller\PessoaController.class
+com\github\RafaelScarpelli\backend\repository\PessoaRepository.class
+com\github\RafaelScarpelli\backend\service\PessoaService.class
